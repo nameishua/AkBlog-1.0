@@ -10,7 +10,7 @@
 
 3:支持Markdown编辑器，就像CSDN那样 ;
 
-4:bootstrap、jQuery、 ;
+4:bootstrap、jQuery等 ;
 
 5:分页 ;
 
