@@ -1,5 +1,7 @@
 萌新学习,大佬勿喷
 
+这是我之前BLOG用的源码,BLOG现在采用了新的架构和实现方式,现在把之前的这份源码上传到github留作纪念.
+
 简介:
 
 1:Spring、SpringMVC、MyBatis整合;
