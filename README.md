@@ -2,7 +2,7 @@
 
 这是我之前BLOG用的源码,BLOG现在采用了新的架构和实现方式,现在把之前的这份源码上传到github留作纪念. 
 
-新版BLOG保留旧版入口, 可访问[coderak.top]()点击Old blog entry进入旧版BLOG.
+新版BLOG保留旧版入口, 可访问[coderak.top](http://www.coderak.top/)点击Old blog entry进入旧版BLOG.
 
 简介:
 
