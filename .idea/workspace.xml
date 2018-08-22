@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="MyBlog:war exploded" />
+      <artifact name="MyBlog:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b99b8314-b7e9-4234-b845-273a9cdbbfea" name="Default" comment="这是之前的个人博客源码,保存纪念一下">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/config/DBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/config/DBConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/config/LoginInterceptors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/config/LoginInterceptors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/config/MyMVCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/config/MyMVCConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/config/WebInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/controller/ArticleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/controller/PageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/dao/ArticleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/dao/ArticleDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/entity/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/entity/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/entity/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/entity/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/entity/Comments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/entity/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/entity/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/service/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/service/ArticleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ak/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/coderak/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/ArticleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="b99b8314-b7e9-4234-b845-273a9cdbbfea" name="Default" comment="这是之前的个人博客源码,保存纪念一下" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,7 +76,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3021" />
+            <state relative-caret-position="-2922" />
           </provider>
         </entry>
       </file>
@@ -525,16 +503,15 @@
       <workItem from="1533619158376" duration="3300000" />
       <workItem from="1534561413333" duration="591000" />
       <workItem from="1534923062821" duration="1979000" />
-      <workItem from="1534952053054" duration="920000" />
+      <workItem from="1534952053054" duration="1538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10094000" />
+    <option name="totallyTimeSpent" value="10712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -557,7 +534,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3272727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3272727" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
@@ -935,7 +912,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3021" />
+        <state relative-caret-position="-2922" />
       </provider>
     </entry>
   </component>
